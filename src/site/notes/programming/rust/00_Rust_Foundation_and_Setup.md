@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/rust/00-rust-foundation-and-setup/","title":"Rust 마스터클래스 제0권: MOC, 개발 환경 구축 및 코어 기초 문법","tags":["rust","programming","moc","tutorial","masterclass","gardenEntry"],"dg-note-properties":{"title":"Rust 마스터클래스 제0권: MOC, 개발 환경 구축 및 코어 기초 문법","aliases":["Rust 강좌 메인","Rust MOC","러스트 기초"],"tags":["rust","programming","moc","tutorial","masterclass","gardenEntry"],"created":"2026-10-25","status":"published","difficulty":"입문 ~ 초급 (Beginner)","cssclasses":["wide-page","clean-embeds"]}}
+{"dg-publish":true,"permalink":"/programming/rust/00-rust-foundation-and-setup/","title":"Rust 마스터클래스 제0권: MOC, 개발 환경 구축 및 코어 기초 문법","tags":["rust","programming","moc","tutorial","masterclass"],"dg-note-properties":{"title":"Rust 마스터클래스 제0권: MOC, 개발 환경 구축 및 코어 기초 문법","aliases":["Rust 강좌 메인","Rust MOC","러스트 기초"],"tags":["rust","programming","moc","tutorial","masterclass"],"created":"2026-10-25","status":"published","difficulty":"입문 ~ 초급 (Beginner)","cssclasses":["wide-page","clean-embeds"]}}
 ---
 
 
