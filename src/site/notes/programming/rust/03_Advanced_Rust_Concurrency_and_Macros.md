@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/rust/03-advanced-rust-concurrency-and-macros/","title":"Rust 마스터클래스 제3권: 함수형 패러다임, 겁 없는 동시성, Async/Await 런타임, 매크로 및 Unsafe","tags":["rust","concurrency","async-await","tokio","macros","unsafe","advanced","gardenEntry"],"dg-note-properties":{"title":"Rust 마스터클래스 제3권: 함수형 패러다임, 겁 없는 동시성, Async/Await 런타임, 매크로 및 Unsafe","aliases":["Rust 고급 기법","Rust 비동기 Tokio","Rust 매크로","Unsafe Rust"],"tags":["rust","concurrency","async-await","tokio","macros","unsafe","advanced","gardenEntry"],"created":"2026-10-25","status":"published","difficulty":"고급 ~ 시니어 (Advanced / Senior)","cssclasses":["wide-page"]}}
+{"dg-publish":true,"permalink":"/programming/rust/03-advanced-rust-concurrency-and-macros/","title":"Rust 마스터클래스 제3권: 함수형 패러다임, 겁 없는 동시성, Async/Await 런타임, 매크로 및 Unsafe","tags":["rust","concurrency","async-await","tokio","macros","unsafe","advanced"],"dg-note-properties":{"title":"Rust 마스터클래스 제3권: 함수형 패러다임, 겁 없는 동시성, Async/Await 런타임, 매크로 및 Unsafe","aliases":["Rust 고급 기법","Rust 비동기 Tokio","Rust 매크로","Unsafe Rust"],"tags":["rust","concurrency","async-await","tokio","macros","unsafe","advanced"],"created":"2026-10-25","status":"published","difficulty":"고급 ~ 시니어 (Advanced / Senior)","cssclasses":["wide-page"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/rust/05-tauri-cross-platform-architecture/","title":"Rust 마스터클래스 별책 2: Tauri v2 크로스플랫폼 데스크톱 & 모바일 앱 아키텍처","tags":["rust","tauri","desktop-app","cross-platform","ipc","architecture","gardenEntry"],"dg-note-properties":{"title":"Rust 마스터클래스 별책 2: Tauri v2 크로스플랫폼 데스크톱 & 모바일 앱 아키텍처","aliases":["Tauri 강좌","Rust Tauri","Tauri v2"],"tags":["rust","tauri","desktop-app","cross-platform","ipc","architecture","gardenEntry"],"created":"2026-10-25","status":"published","difficulty":"중급 ~ 고급 (Intermediate ~ Senior)","cssclasses":["wide-page"]}}
+{"dg-publish":true,"permalink":"/programming/rust/05-tauri-cross-platform-architecture/","title":"Rust 마스터클래스 별책 2: Tauri v2 크로스플랫폼 데스크톱 & 모바일 앱 아키텍처","tags":["rust","tauri","desktop-app","cross-platform","ipc","architecture"],"dg-note-properties":{"title":"Rust 마스터클래스 별책 2: Tauri v2 크로스플랫폼 데스크톱 & 모바일 앱 아키텍처","aliases":["Tauri 강좌","Rust Tauri","Tauri v2"],"tags":["rust","tauri","desktop-app","cross-platform","ipc","architecture"],"created":"2026-10-25","status":"published","difficulty":"중급 ~ 고급 (Intermediate ~ Senior)","cssclasses":["wide-page"]}}
 ---
 
 

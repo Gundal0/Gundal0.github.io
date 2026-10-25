@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/rust/04-web-assembly-and-frontend-ecosystem/","title":"Rust 마스터클래스 별책 1: WebAssembly (WASM) 및 프론트엔드 생태계 완벽 가이드","tags":["rust","wasm","webassembly","frontend","wasm-bindgen","web-sys","gardenEntry"],"dg-note-properties":{"title":"Rust 마스터클래스 별책 1: WebAssembly (WASM) 및 프론트엔드 생태계 완벽 가이드","aliases":["Rust WASM","WebAssembly 강좌","wasm-bindgen"],"tags":["rust","wasm","webassembly","frontend","wasm-bindgen","web-sys","gardenEntry"],"created":"2026-10-25","status":"published","difficulty":"중급 ~ 고급 (Intermediate ~ Advanced)","cssclasses":["wide-page"]}}
+{"dg-publish":true,"permalink":"/programming/rust/04-web-assembly-and-frontend-ecosystem/","title":"Rust 마스터클래스 별책 1: WebAssembly (WASM) 및 프론트엔드 생태계 완벽 가이드","tags":["rust","wasm","webassembly","frontend","wasm-bindgen","web-sys"],"dg-note-properties":{"title":"Rust 마스터클래스 별책 1: WebAssembly (WASM) 및 프론트엔드 생태계 완벽 가이드","aliases":["Rust WASM","WebAssembly 강좌","wasm-bindgen"],"tags":["rust","wasm","webassembly","frontend","wasm-bindgen","web-sys"],"created":"2026-10-25","status":"published","difficulty":"중급 ~ 고급 (Intermediate ~ Advanced)","cssclasses":["wide-page"]}}
 ---
 
 

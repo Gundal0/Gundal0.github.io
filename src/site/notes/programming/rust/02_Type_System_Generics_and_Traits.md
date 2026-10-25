@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/rust/02-type-system-generics-and-traits/","title":"Rust 마스터클래스 제2권: 대수적 타입 시스템, 패턴 매칭, 에러 처리 및 트레이트 아키텍처","tags":["rust","type-system","traits","generics","error-handling","pattern-matching","gardenEntry"],"dg-note-properties":{"title":"Rust 마스터클래스 제2권: 대수적 타입 시스템, 패턴 매칭, 에러 처리 및 트레이트 아키텍처","aliases":["Rust 타입 시스템","Rust 트레이트","Rust 에러 처리","패턴 매칭"],"tags":["rust","type-system","traits","generics","error-handling","pattern-matching","gardenEntry"],"created":"2026-10-25","status":"published","difficulty":"중급 (Intermediate ~ Advanced)","cssclasses":["wide-page"]}}
+{"dg-publish":true,"permalink":"/programming/rust/02-type-system-generics-and-traits/","title":"Rust 마스터클래스 제2권: 대수적 타입 시스템, 패턴 매칭, 에러 처리 및 트레이트 아키텍처","tags":["rust","type-system","traits","generics","error-handling","pattern-matching"],"dg-note-properties":{"title":"Rust 마스터클래스 제2권: 대수적 타입 시스템, 패턴 매칭, 에러 처리 및 트레이트 아키텍처","aliases":["Rust 타입 시스템","Rust 트레이트","Rust 에러 처리","패턴 매칭"],"tags":["rust","type-system","traits","generics","error-handling","pattern-matching"],"created":"2026-10-25","status":"published","difficulty":"중급 (Intermediate ~ Advanced)","cssclasses":["wide-page"]}}
 ---
 
 

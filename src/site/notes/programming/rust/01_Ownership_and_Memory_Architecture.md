@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/rust/01-ownership-and-memory-architecture/","title":"Rust 마스터클래스 제1권: 소유권(Ownership), 빌림(Borrowing), 생명주기 및 스마트 포인터","tags":["rust","ownership","borrowing","lifetimes","smart-pointers","memory-management","gardenEntry"],"dg-note-properties":{"title":"Rust 마스터클래스 제1권: 소유권(Ownership), 빌림(Borrowing), 생명주기 및 스마트 포인터","aliases":["Rust 소유권","Rust 메모리 구조","빌림 검사기","스마트 포인터"],"tags":["rust","ownership","borrowing","lifetimes","smart-pointers","memory-management","gardenEntry"],"created":"2026-10-25","status":"published","difficulty":"초급 ~ 중급 (Intermediate)","cssclasses":["wide-page"]}}
+{"dg-publish":true,"permalink":"/programming/rust/01-ownership-and-memory-architecture/","title":"Rust 마스터클래스 제1권: 소유권(Ownership), 빌림(Borrowing), 생명주기 및 스마트 포인터","tags":["rust","ownership","borrowing","lifetimes","smart-pointers","memory-management"],"dg-note-properties":{"title":"Rust 마스터클래스 제1권: 소유권(Ownership), 빌림(Borrowing), 생명주기 및 스마트 포인터","aliases":["Rust 소유권","Rust 메모리 구조","빌림 검사기","스마트 포인터"],"tags":["rust","ownership","borrowing","lifetimes","smart-pointers","memory-management"],"created":"2026-10-25","status":"published","difficulty":"초급 ~ 중급 (Intermediate)","cssclasses":["wide-page"]}}
 ---
 
 
