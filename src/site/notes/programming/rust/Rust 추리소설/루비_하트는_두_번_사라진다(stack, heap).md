@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/programming/rust/rust/stack-heap/","dg-note-properties":{}}
 ---
 
-
 # 루비 하트는 두 번 사라진다
 
 ### — 크레이트 섬의 탐정들 외전: C++ 섬의 이중 해제 사건 —
