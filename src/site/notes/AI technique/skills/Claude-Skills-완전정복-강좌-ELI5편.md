@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-technique/skills/claude-skills-eli-5/","title":"Claude Skills 완전 정복 — ELI5편 (다섯 살도 이해하는 그림 강좌)","tags":["claude/skills","ai/agent","tutorial","eli5"],"dg-note-properties":{"title":"Claude Skills 완전 정복 — ELI5편 (다섯 살도 이해하는 그림 강좌)","aliases":["Claude Skills 쉬운 강좌","Skills ELI5","레시피 상자로 배우는 Claude Skills"],"tags":["claude/skills","ai/agent","tutorial","eli5"],"cssclasses":["wide-page"],"level":"입문 → 초급 → 중급 → 전문가","audience":"Skill을 처음 듣는 사람부터 팀에 배포하려는 사람까지","created":"2026-11-12","updated":"2026-11-12","status":"complete","related":["[[Claude-Skills-완전정복-강좌]]","[[Claude-Skills-완전정복-강좌-Desktop편]]"]}}
+{"dg-publish":true,"permalink":"/ai-technique/skills/claude-skills-eli-5/","title":"Claude Skills 완전 정복 — ELI5편 (다섯 살도 이해하는 그림 강좌)","tags":["claude/skills","ai/agent","tutorial","eli5"],"dg-note-properties":{"title":"Claude Skills 완전 정복 — ELI5편 (다섯 살도 이해하는 그림 강좌)","aliases":["Claude Skills 쉬운 강좌","Skills ELI5","레시피 상자로 배우는 Claude Skills"],"tags":["claude/skills","ai/agent","tutorial","eli5"],"cssclasses":["wide-page"],"level":"입문 → 초급 → 중급 → 전문가","audience":"Skill을 처음 듣는 사람부터 팀에 배포하려는 사람까지","created":"2026-11-12","updated":"2026-11-12","status":"complete","related":["[[AI technique/skills/Claude-Skills-완전정복-강좌]]","[[AI technique/skills/Claude-Skills-완전정복-강좌-Desktop편]]"]}}
 ---
 
 
@@ -15,8 +15,8 @@
 > **2026년 11월** 공식 문서를 확인하고 썼습니다.[^howto][^use] 메뉴 이름과 버튼 글자는 앱이 업데이트되면 바뀔 수 있습니다. 화면과 다르면 [[AI technique/skills/Claude-Skills-완전정복-강좌-ELI5편#부록 E. 참고 자료\|#부록 E. 참고 자료]]의 공식 문서를 먼저 보세요.
 
 > [!tip] 함께 보면 좋은 노트
-> - 개발자용 심화 → [[Claude-Skills-완전정복-강좌\|Claude-Skills-완전정복-강좌]]
-> - Claude Desktop 앱 중심 → [[Claude-Skills-완전정복-강좌-Desktop편\|Claude-Skills-완전정복-강좌-Desktop편]]
+> - 개발자용 심화 → [[AI technique/skills/Claude-Skills-완전정복-강좌\|Claude-Skills-완전정복-강좌]]
+> - Claude Desktop 앱 중심 → [[AI technique/skills/Claude-Skills-완전정복-강좌-Desktop편\|Claude-Skills-완전정복-강좌-Desktop편]]
 >
 > 이 ELI5편은 두 노트의 **앞에** 읽는 책입니다. 그림과 비유로 뼈대를 세우고, 세부 옵션은 위 두 노트에서 찾으면 됩니다.
 
@@ -180,7 +180,7 @@ explaining-simply/      ← 📦 상자 (폴더)
 | 여러 단계를 **정해진 순서**로 해야 한다 | Jira·Slack의 **실시간 데이터**가 필요하다 → 커넥터 |
 | 참고 문서나 계산 프로그램이 있어야 제대로 나온다 | |
 
-> [!tip] 한 문장 테스트
+> [!tip]- 한 문장 테스트
 > "**Claude에게 같은 잔소리를 세 번째 하고 있다**"면 Skill로 만들 때입니다.
 
 ### 1.3 스스로 확인
@@ -191,7 +191,7 @@ explaining-simply/      ← 📦 상자 (폴더)
 > [!question]- "항상 존댓말로 답해줘"는 Skill로 만드는 것이 좋을까요?
 > 아닙니다. 모든 대화에 적용되어야 하는 내용은 **개인 설정**에 넣습니다. Skill은 **특정한 일을 할 때만** 열리는 상자입니다.
 
-- [ ] 1장 완료 — Skill을 레시피 상자에 빗대어 설명할 수 있다 #skills-eli5
+- [x] 1장 완료 — Skill을 레시피 상자에 빗대어 설명할 수 있다 #skills-eli5
 
 ---
 
@@ -1457,7 +1457,7 @@ flowchart LR
 > - 🚪 **옆방에서 하고 오기** — 시끄러운 일은 옆방에서 하고 결과만 가져와요
 
 > [!info] 이 장의 범위
-> 아래 frontmatter 항목들은 **Claude Code에서 의미가 있습니다.** claude.ai 채팅에서는 `name`과 `description`이 중심이고 나머지는 쓰이지 않습니다. Claude Code를 쓰지 않는다면 이 장은 건너뛰어도 됩니다. 전체 목록과 세부 동작은 [[Claude-Skills-완전정복-강좌#Part 5. Claude Code 전용 기능 — 인자, 동적 컨텍스트, 권한, 호출 제어\|개발자편 Part 5]]와 공식 문서[^code]에 있습니다.
+> 아래 frontmatter 항목들은 **Claude Code에서 의미가 있습니다.** claude.ai 채팅에서는 `name`과 `description`이 중심이고 나머지는 쓰이지 않습니다. Claude Code를 쓰지 않는다면 이 장은 건너뛰어도 됩니다. 전체 목록과 세부 동작은 [[AI technique/skills/Claude-Skills-완전정복-강좌#Part 5. Claude Code 전용 기능 — 인자, 동적 컨텍스트, 권한, 호출 제어\|개발자편 Part 5]]와 공식 문서[^code]에 있습니다.
 
 ### 14.1 이름으로 부르기와 빈칸 채우기
 
@@ -1663,7 +1663,7 @@ flowchart TB
 > 계정에 올린 것, 내 컴퓨터의 것, API에 올린 것이 따로 놀기 시작하면 어느 것이 최신인지 알 수 없게 됩니다. **원본 폴더 하나를 고치고 거기서 각 환경으로 내보내는** 습관을 들이세요.
 
 > [!note]- 🎓 전문가 한 걸음 — API에서 Skill 쓰기
-> Claude API에서는 Skills API(`/v1/skills`)로 Skill을 올리고, 메시지 요청의 `container`에 쓸 Skill을 지정하며, 코드 실행 도구를 함께 켭니다. API로 올린 Skill은 워크스페이스의 구성원이 함께 씁니다.[^overview] 서비스에 넣을 때는 **버전을 고정**해 두어 Skill 수정이 운영 중인 서비스에 바로 반영되지 않게 하세요. 코드 예제는 [[Claude-Skills-완전정복-강좌#Part 9. Claude API & Agent SDK에서 Skills 쓰기\|개발자편 Part 9]]에 있습니다.
+> Claude API에서는 Skills API(`/v1/skills`)로 Skill을 올리고, 메시지 요청의 `container`에 쓸 Skill을 지정하며, 코드 실행 도구를 함께 켭니다. API로 올린 Skill은 워크스페이스의 구성원이 함께 씁니다.[^overview] 서비스에 넣을 때는 **버전을 고정**해 두어 Skill 수정이 운영 중인 서비스에 바로 반영되지 않게 하세요. 코드 예제는 [[AI technique/skills/Claude-Skills-완전정복-강좌#Part 9. Claude API & Agent SDK에서 Skills 쓰기\|개발자편 Part 9]]에 있습니다.
 
 - [ ] 16장 완료 — 내 상황에 맞는 공유 방법을 고를 수 있다 #skills-eli5
 
@@ -2183,8 +2183,8 @@ description: >-
 
 **이 볼트의 관련 노트**
 
-- [[Claude-Skills-완전정복-강좌\|Claude-Skills-완전정복-강좌]] — 개발자편
-- [[Claude-Skills-완전정복-강좌-Desktop편\|Claude-Skills-완전정복-강좌-Desktop편]] — Claude Desktop편
+- [[AI technique/skills/Claude-Skills-완전정복-강좌\|Claude-Skills-완전정복-강좌]] — 개발자편
+- [[AI technique/skills/Claude-Skills-완전정복-강좌-Desktop편\|Claude-Skills-완전정복-강좌-Desktop편]] — Claude Desktop편
 
 ---
 
