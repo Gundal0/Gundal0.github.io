@@ -253,7 +253,7 @@ flowchart TB
 > [!question]- 내 Skill이 열려야 할 때 안 열립니다. 가장 먼저 볼 곳은?
 > `description`입니다. Claude가 고를 때 보는 것이 그것뿐이기 때문입니다.
 
-- [ ] 2장 완료 — 라벨 → 카드 → 나머지의 세 단계를 그릴 수 있다 #skills-eli5
+- [x] 2장 완료 — 라벨 → 카드 → 나머지의 세 단계를 그릴 수 있다 #skills-eli5
 
 ---
 
